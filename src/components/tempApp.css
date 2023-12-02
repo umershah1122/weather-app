@@ -1,0 +1,27 @@
+body {
+  background-color: #f1f1ed;
+}
+.box {
+  background-color: #9fb7da;
+  width: 280px;
+  height: 370px;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 90px;
+  text-align: center;
+  position: relative;
+}
+.inputField {
+  border-radius: 20px;
+  outline: none;
+  margin-top: 10px;
+  line-height: 30px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.info {
+  margin-top: 100px;
+}
+.icon {
+  font-size: 40px;
+}
